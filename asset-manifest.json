@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://godhermit.github.io/tuppers-formula/static/css/main.dfc7b063.css",
+    "main.js": "https://godhermit.github.io/tuppers-formula/static/js/main.d3873b96.js",
+    "index.html": "https://godhermit.github.io/tuppers-formula/index.html",
+    "main.dfc7b063.css.map": "https://godhermit.github.io/tuppers-formula/static/css/main.dfc7b063.css.map",
+    "main.d3873b96.js.map": "https://godhermit.github.io/tuppers-formula/static/js/main.d3873b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc7b063.css",
+    "static/js/main.d3873b96.js"
+  ]
+}
